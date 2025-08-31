@@ -6,5 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/2481-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Gaurika29062004/cpp-codes/tree/master/3279-alice-and-bob-playing-flower-game) |
+## Two Pointers
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/2481-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
