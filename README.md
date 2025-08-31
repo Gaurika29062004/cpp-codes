@@ -11,9 +11,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Gaurika29062004/cpp-codes/tree/master/0011-container-with-most-water) |
 | [2481-strictly-palindromic-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/2481-strictly-palindromic-number) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Gaurika29062004/cpp-codes/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Gaurika29062004/cpp-codes/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
