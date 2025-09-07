@@ -1,13 +1,13 @@
 class Solution {
 public:
     vector<int> sumZero(int n) {
-        vector<int> result(n);
-        for(int i=0;i<n;i++){
-            if(i%2==0) result[i] = i+1;
-            else result[i] = -i;
+        vector<int> result;
+        for(int i=1;i<=n/2;i++){
+           result.push_back(i);
+           result.push_back(-i);
         } 
         if(n%2==1)
-        result[n-1] = 0;
+        result.push_back(0);
      
      return result;  
     }
