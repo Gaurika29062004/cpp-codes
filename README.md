@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Gaurika29062004/cpp-codes/tree/master/0043-multiply-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurika29062004/cpp-codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Gaurika29062004/cpp-codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/2481-strictly-palindromic-number) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Gaurika29062004/cpp-codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Two Pointers
