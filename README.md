@@ -28,10 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurika29062004/cpp-codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gaurika29062004/cpp-codes/tree/master/0011-container-with-most-water) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
 ## String
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Matrix
 |  |
 | ------- |
