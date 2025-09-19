@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Gaurika29062004/cpp-codes/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/2481-strictly-palindromic-number) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Gaurika29062004/cpp-codes/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/3462-vowels-game-in-a-string) |
 ## Two Pointers
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Greedy
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [2887-sort-vowels-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/2887-sort-vowels-in-a-string) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Gaurika29062004/cpp-codes/tree/master/3678-design-task-manager) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
