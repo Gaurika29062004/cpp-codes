@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Gaurika29062004/cpp-codes/tree/master/3827-implement-router) |
 ## Greedy
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/3379-score-of-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/3462-vowels-game-in-a-string) |
+| [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Gaurika29062004/cpp-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
@@ -72,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Gaurika29062004/cpp-codes/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Gaurika29062004/cpp-codes/tree/master/3827-implement-router) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Gaurika29062004/cpp-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
+| [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Gaurika29062004/cpp-codes/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Gaurika29062004/cpp-codes/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
