@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [2481-strictly-palindromic-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/2481-strictly-palindromic-number) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Brainteaser
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gaurika29062004/cpp-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Gaurika29062004/cpp-codes/tree/master/3827-implement-router) |
 ## Greedy
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gaurika29062004/cpp-codes/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/Gaurika29062004/cpp-codes/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Gaurika29062004/cpp-codes/tree/master/3827-implement-router) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
 | [2887-sort-vowels-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -147,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gaurika29062004/cpp-codes/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Gaurika29062004/cpp-codes/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4053-majority-frequency-characters](https://github.com/Gaurika29062004/cpp-codes/tree/master/4053-majority-frequency-characters) |
 ## Dynamic Programming
@@ -155,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/0120-triangle) |
 | [1250-longest-common-subsequence](https://github.com/Gaurika29062004/cpp-codes/tree/master/1250-longest-common-subsequence) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Gaurika29062004/cpp-codes/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Queue
 |  |
 | ------- |
@@ -166,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/Gaurika29062004/cpp-codes/tree/master/3827-implement-router) |
 ## Game Theory
 |  |
