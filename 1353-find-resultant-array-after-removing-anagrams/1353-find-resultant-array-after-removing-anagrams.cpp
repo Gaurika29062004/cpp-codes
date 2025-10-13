@@ -14,7 +14,7 @@ public:
         vector<string> s;
         s.push_back(words[0]);
         for(int i=1;i<words.size();i++){
-            if(!s.empty() && !isAnagram(words[i-1],words[i])){
+            if(!s.empty() && !isAnagram(s.back(),words[i])){
                 s.push_back(words[i]);
             }
         } 
