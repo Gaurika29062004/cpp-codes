@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gaurika29062004/cpp-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurika29062004/cpp-codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2023-design-movie-rental-system) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/Gaurika29062004/cpp-codes/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Gaurika29062004/cpp-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gaurika29062004/cpp-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3379-score-of-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/3379-score-of-a-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Gaurika29062004/cpp-codes/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gaurika29062004/cpp-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gaurika29062004/cpp-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2887-sort-vowels-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
