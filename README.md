@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Gaurika29062004/cpp-codes/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Gaurika29062004/cpp-codes/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Gaurika29062004/cpp-codes/tree/master/3827-implement-router) |
 ## Greedy
