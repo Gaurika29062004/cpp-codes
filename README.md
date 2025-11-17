@@ -277,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurika29062004/cpp-codes/tree/master/0199-binary-tree-right-side-view) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gaurika29062004/cpp-codes/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gaurika29062004/cpp-codes/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
