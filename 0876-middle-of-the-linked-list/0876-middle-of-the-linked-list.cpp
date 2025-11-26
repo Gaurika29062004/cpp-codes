@@ -25,7 +25,7 @@ public:
         cnt++;
         if(cnt == mid){
             head = temp;
-            return head;
+            break;   
         }
         temp = temp->next;
        }
