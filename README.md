@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Gaurika29062004/cpp-codes/tree/master/0043-multiply-strings) |
 | [0830-largest-triangle-area](https://github.com/Gaurika29062004/cpp-codes/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Gaurika29062004/cpp-codes/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Gaurika29062004/cpp-codes/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Gaurika29062004/cpp-codes/tree/master/0328-odd-even-linked-list) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Gaurika29062004/cpp-codes/tree/master/0206-reverse-linked-list) |
 ## Backtracking
 |  |
