@@ -10,9 +10,6 @@ public:
         int maxend = 0;
         int currend = 0;
         for(int i=0;i<n;i++){
-            if(i>maxend){
-                return -1;
-            }
             if(i>currend){
                 jumps++;
                 currend = maxend;
