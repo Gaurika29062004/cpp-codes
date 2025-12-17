@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Gaurika29062004/cpp-codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gaurika29062004/cpp-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurika29062004/cpp-codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Gaurika29062004/cpp-codes/tree/master/0134-gas-station) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Gaurika29062004/cpp-codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Gaurika29062004/cpp-codes/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Gaurika29062004/cpp-codes/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## String
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurika29062004/cpp-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Gaurika29062004/cpp-codes/tree/master/0198-house-robber) |
 | [1250-longest-common-subsequence](https://github.com/Gaurika29062004/cpp-codes/tree/master/1250-longest-common-subsequence) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Gaurika29062004/cpp-codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Gaurika29062004/cpp-codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Queue
