@@ -13,10 +13,9 @@ class Solution {
 public:
     int helper(TreeNode* root,unordered_map<int,int>&mp){
         if(root == NULL) return 0;  
-        int sum = 0;
         int lh = helper(root->left,mp);
         int rh = helper(root->right,mp);
-        sum += root->val + lh + rh;
+        int sum = root->val + lh + rh;
         mp[sum]++;
         return sum;
     }
