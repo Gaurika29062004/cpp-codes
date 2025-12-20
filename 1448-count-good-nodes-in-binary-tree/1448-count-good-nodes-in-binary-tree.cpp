@@ -11,16 +11,16 @@
  */
 class Solution {
 public:
-    int compare(TreeNode* root,int maxsofar,int &count){
+    int compare(TreeNode* root,int maxsofar){
         if(root == NULL) return 0;
+        int count = 0;
         if(root->val >= maxsofar) count++;
         maxsofar = max(maxsofar,root->val);
-        int lh = compare(root->left,maxsofar,count);
-        int rh = compare(root->right,maxsofar,count);
-        return count;
+        int lh = compare(root->left,maxsofar);
+        int rh = compare(root->right,maxsofar);
+        return count + lh + rh;
     }
     int goodNodes(TreeNode* root) {
-        int count = 0;
-        return compare(root,root->val,count);
+        return compare(root,root->val);
     }
 };
