@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Gaurika29062004/cpp-codes/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Gaurika29062004/cpp-codes/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0165-compare-version-numbers) |
+| [0242-valid-anagram](https://github.com/Gaurika29062004/cpp-codes/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Gaurika29062004/cpp-codes/tree/master/0257-binary-tree-paths) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
 | [1250-longest-common-subsequence](https://github.com/Gaurika29062004/cpp-codes/tree/master/1250-longest-common-subsequence) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Gaurika29062004/cpp-codes/tree/master/0141-linked-list-cycle) |
+| [0242-valid-anagram](https://github.com/Gaurika29062004/cpp-codes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [0508-most-frequent-subtree-sum](https://github.com/Gaurika29062004/cpp-codes/tree/master/0508-most-frequent-subtree-sum) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Gaurika29062004/cpp-codes/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Gaurika29062004/cpp-codes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
