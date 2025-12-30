@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Gaurika29062004/cpp-codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gaurika29062004/cpp-codes/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gaurika29062004/cpp-codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0125-valid-palindrome](https://github.com/Gaurika29062004/cpp-codes/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Gaurika29062004/cpp-codes/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gaurika29062004/cpp-codes/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Gaurika29062004/cpp-codes/tree/master/0043-multiply-strings) |
+| [0125-valid-palindrome](https://github.com/Gaurika29062004/cpp-codes/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0165-compare-version-numbers) |
 | [0257-binary-tree-paths](https://github.com/Gaurika29062004/cpp-codes/tree/master/0257-binary-tree-paths) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
