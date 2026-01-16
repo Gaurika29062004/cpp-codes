@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Gaurika29062004/cpp-codes/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/Gaurika29062004/cpp-codes/tree/master/0735-asteroid-collision) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Gaurika29062004/cpp-codes/tree/master/0155-min-stack) |
 | [2023-design-movie-rental-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Gaurika29062004/cpp-codes/tree/master/3678-design-task-manager) |
