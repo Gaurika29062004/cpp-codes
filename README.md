@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Gaurika29062004/cpp-codes/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/Gaurika29062004/cpp-codes/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/Gaurika29062004/cpp-codes/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Gaurika29062004/cpp-codes/tree/master/0204-count-primes) |
