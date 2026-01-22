@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Gaurika29062004/cpp-codes/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Gaurika29062004/cpp-codes/tree/master/0735-asteroid-collision) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Gaurika29062004/cpp-codes/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
 | [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Gaurika29062004/cpp-codes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gaurika29062004/cpp-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2023-design-movie-rental-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/Gaurika29062004/cpp-codes/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Gaurika29062004/cpp-codes/tree/master/3678-design-task-manager) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
