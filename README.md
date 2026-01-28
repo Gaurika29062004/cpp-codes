@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Gaurika29062004/cpp-codes/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Gaurika29062004/cpp-codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gaurika29062004/cpp-codes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurika29062004/cpp-codes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gaurika29062004/cpp-codes/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Gaurika29062004/cpp-codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gaurika29062004/cpp-codes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurika29062004/cpp-codes/tree/master/1971-find-if-path-exists-in-graph) |
@@ -402,9 +404,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurika29062004/cpp-codes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurika29062004/cpp-codes/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
