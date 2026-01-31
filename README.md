@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Gaurika29062004/cpp-codes/tree/master/0735-asteroid-collision) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/Gaurika29062004/cpp-codes/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
 | [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurika29062004/cpp-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Gaurika29062004/cpp-codes/tree/master/0198-house-robber) |
+| [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/Gaurika29062004/cpp-codes/tree/master/1250-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Gaurika29062004/cpp-codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Gaurika29062004/cpp-codes/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurika29062004/cpp-codes/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Gaurika29062004/cpp-codes/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Gaurika29062004/cpp-codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
