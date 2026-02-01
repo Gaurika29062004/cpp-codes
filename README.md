@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/Gaurika29062004/cpp-codes/tree/master/1020-number-of-enclaves) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Gaurika29062004/cpp-codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Gaurika29062004/cpp-codes/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Gaurika29062004/cpp-codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Gaurika29062004/cpp-codes/tree/master/1020-number-of-enclaves) |
 | [3797-design-spreadsheet](https://github.com/Gaurika29062004/cpp-codes/tree/master/3797-design-spreadsheet) |
 ## Divide and Conquer
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Gaurika29062004/cpp-codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Gaurika29062004/cpp-codes/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gaurika29062004/cpp-codes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurika29062004/cpp-codes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Gaurika29062004/cpp-codes/tree/master/1020-number-of-enclaves) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Gaurika29062004/cpp-codes/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurika29062004/cpp-codes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Gaurika29062004/cpp-codes/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
+| [1020-number-of-enclaves](https://github.com/Gaurika29062004/cpp-codes/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurika29062004/cpp-codes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
