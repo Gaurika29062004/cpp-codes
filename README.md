@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Gaurika29062004/cpp-codes/tree/master/0045-jump-game-ii) |
 | [0120-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/0120-triangle) |
+| [0130-surrounded-regions](https://github.com/Gaurika29062004/cpp-codes/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Gaurika29062004/cpp-codes/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Gaurika29062004/cpp-codes/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Gaurika29062004/cpp-codes/tree/master/0200-number-of-islands) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
+| [0130-surrounded-regions](https://github.com/Gaurika29062004/cpp-codes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gaurika29062004/cpp-codes/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Gaurika29062004/cpp-codes/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Gaurika29062004/cpp-codes/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurika29062004/cpp-codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Gaurika29062004/cpp-codes/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurika29062004/cpp-codes/tree/master/0199-binary-tree-right-side-view) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Gaurika29062004/cpp-codes/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gaurika29062004/cpp-codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0130-surrounded-regions](https://github.com/Gaurika29062004/cpp-codes/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Gaurika29062004/cpp-codes/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Gaurika29062004/cpp-codes/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/Gaurika29062004/cpp-codes/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Gaurika29062004/cpp-codes/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gaurika29062004/cpp-codes/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
