@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Gaurika29062004/cpp-codes/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Gaurika29062004/cpp-codes/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/Gaurika29062004/cpp-codes/tree/master/0165-compare-version-numbers) |
+| [0187-repeated-dna-sequences](https://github.com/Gaurika29062004/cpp-codes/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Gaurika29062004/cpp-codes/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Gaurika29062004/cpp-codes/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/0387-first-unique-character-in-a-string) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Gaurika29062004/cpp-codes/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gaurika29062004/cpp-codes/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/Gaurika29062004/cpp-codes/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/Gaurika29062004/cpp-codes/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gaurika29062004/cpp-codes/tree/master/0387-first-unique-character-in-a-string) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurika29062004/cpp-codes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Gaurika29062004/cpp-codes/tree/master/0187-repeated-dna-sequences) |
 ## Union Find
 |  |
 | ------- |
@@ -436,4 +439,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Gaurika29062004/cpp-codes/tree/master/0802-find-eventual-safe-states) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Gaurika29062004/cpp-codes/tree/master/0187-repeated-dna-sequences) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Gaurika29062004/cpp-codes/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Gaurika29062004/cpp-codes/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
