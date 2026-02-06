@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Gaurika29062004/cpp-codes/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
