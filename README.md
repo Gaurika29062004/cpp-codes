@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gaurika29062004/cpp-codes/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Gaurika29062004/cpp-codes/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Gaurika29062004/cpp-codes/tree/master/0045-jump-game-ii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0540-single-element-in-a-sorted-array) |
