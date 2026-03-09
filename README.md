@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gaurika29062004/cpp-codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/1018-largest-perimeter-triangle) |
 | [1020-number-of-enclaves](https://github.com/Gaurika29062004/cpp-codes/tree/master/1020-number-of-enclaves) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Gaurika29062004/cpp-codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Gaurika29062004/cpp-codes/tree/master/0611-valid-triangle-number) |
 | [0875-koko-eating-bananas](https://github.com/Gaurika29062004/cpp-codes/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gaurika29062004/cpp-codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Gaurika29062004/cpp-codes/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/Gaurika29062004/cpp-codes/tree/master/3827-implement-router) |
 ## Game Theory
