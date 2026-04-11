@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Gaurika29062004/cpp-codes/tree/master/0735-asteroid-collision) |
 | [0830-largest-triangle-area](https://github.com/Gaurika29062004/cpp-codes/tree/master/0830-largest-triangle-area) |
+| [0867-transpose-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Gaurika29062004/cpp-codes/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Gaurika29062004/cpp-codes/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Gaurika29062004/cpp-codes/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Gaurika29062004/cpp-codes/tree/master/1642-water-bottles) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Gaurika29062004/cpp-codes/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/Gaurika29062004/cpp-codes/tree/master/3336-water-bottles-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Gaurika29062004/cpp-codes/tree/master/0733-flood-fill) |
+| [0867-transpose-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Gaurika29062004/cpp-codes/tree/master/1020-number-of-enclaves) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/1582-special-positions-in-a-binary-matrix) |
