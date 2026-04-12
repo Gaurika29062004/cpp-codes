@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/Gaurika29062004/cpp-codes/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0054-spiral-matrix) |
 | [0120-triangle](https://github.com/Gaurika29062004/cpp-codes/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Gaurika29062004/cpp-codes/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Gaurika29062004/cpp-codes/tree/master/0134-gas-station) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Gaurika29062004/cpp-codes/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Gaurika29062004/cpp-codes/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0867-transpose-matrix) |
 | [1642-water-bottles](https://github.com/Gaurika29062004/cpp-codes/tree/master/1642-water-bottles) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Gaurika29062004/cpp-codes/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Gaurika29062004/cpp-codes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Gaurika29062004/cpp-codes/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
