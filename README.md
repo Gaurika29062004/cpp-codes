@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Gaurika29062004/cpp-codes/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Gaurika29062004/cpp-codes/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0978-longest-turbulent-subarray](https://github.com/Gaurika29062004/cpp-codes/tree/master/0978-longest-turbulent-subarray) |
 | [0994-rotting-oranges](https://github.com/Gaurika29062004/cpp-codes/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Gaurika29062004/cpp-codes/tree/master/1006-vowel-spellchecker) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Gaurika29062004/cpp-codes/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Gaurika29062004/cpp-codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Gaurika29062004/cpp-codes/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Gaurika29062004/cpp-codes/tree/master/0542-01-matrix) |
+| [0978-longest-turbulent-subarray](https://github.com/Gaurika29062004/cpp-codes/tree/master/0978-longest-turbulent-subarray) |
 | [1250-longest-common-subsequence](https://github.com/Gaurika29062004/cpp-codes/tree/master/1250-longest-common-subsequence) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Gaurika29062004/cpp-codes/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Gaurika29062004/cpp-codes/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gaurika29062004/cpp-codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Gaurika29062004/cpp-codes/tree/master/0187-repeated-dna-sequences) |
+| [0978-longest-turbulent-subarray](https://github.com/Gaurika29062004/cpp-codes/tree/master/0978-longest-turbulent-subarray) |
 ## Union Find
 |  |
 | ------- |
